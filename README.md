@@ -92,8 +92,8 @@ See my [Github profile](https://github.com/prahladyeri/) for details.
 
 ## Awards
 
-- Cookie Award for performance twice in eCoRepair & PIPeR projects.
-- Valuable-Team-Player Award for performance in PIPeR project.
+- Cookie Award for performance twice in eCoRepair & PIPeR projects (Tech Mahindra).
+- Valuable-Team-Player Award for performance in PIPeR project (Tech Mahindra).
 
 ## Hobbies
 
