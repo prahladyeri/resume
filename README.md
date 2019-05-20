@@ -1,7 +1,7 @@
 # Resume of Prahlad Yeri
 
-- [Download PDF](https://github.com/prahladyeri/resume/raw/master/resume.pdf)
-- [Download DOCX](https://github.com/prahladyeri/resume/raw/master/resume.docx)
+- [Download pdf](https://github.com/prahladyeri/resume/raw/master/prahlad_resume.pdf)
+- [Download docx](https://github.com/prahladyeri/resume/raw/master/prahlad_resume.docx)
 
 *(A copy of this Resume is available online at <https://github.com/prahladyeri/resume>)*
 
