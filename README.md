@@ -1,15 +1,16 @@
 # Resume of Prahlad Yeri
 
-***(A copy of this Resume is also available online at https://github.com/prahladyeri/resmue)***
+***(A copy of this Resume is available online at https://github.com/prahladyeri/resmue)***
 
 ## Basic Details
 
-| Name        | Prahlad Yeri					|
+|             |              					|
 |-------------| ------------------------------- |
-| **Location**       | **Bangalore (India)**           |
-| **Email**       | **prahladyeri@yahoo.com**           |
-| **Blog**        | **https://prahladyeri.com**         |
-| **Github**      | **https://github.com/prahladyeri**  |
+| Name        | Prahlad Yeri					|
+| Location    | Bangalore (India)           	|
+| Email       | prahladyeri@yahoo.com           |
+| Blog        | https://prahladyeri.com         |
+| Github      | https://github.com/prahladyeri  |
 
 
 ## Experience Summary
