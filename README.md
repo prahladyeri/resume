@@ -1,16 +1,19 @@
 # Resume of Prahlad Yeri
 
-***(A copy of this Resume is available online at https://github.com/prahladyeri/resmue)***
+- [Download DOCX](resume.docx)
+- [Download PDF](resume.pdf)
+
+*(A copy of this Resume is available online at <https://github.com/prahladyeri/resmue>)*
 
 ## Basic Details
 
-|             |              					|
-|-------------| ------------------------------- |
-| Name        | Prahlad Yeri					|
-| Location    | Bangalore (India)           	|
-| Email       | prahladyeri@yahoo.com           |
-| Blog        | https://prahladyeri.com         |
-| Github      | https://github.com/prahladyeri  |
+|  |   |
+|----------| ------------------|
+| Name | Prahlad Yeri |
+| Location | Bangalore, India |
+| Email | <prahladyeri@yahoo.com> |
+| Blog | <https://prahladyeri.com> |
+| Github | <https://github.com/prahladyeri> |
 
 
 ## Experience Summary
@@ -47,8 +50,7 @@
 
 ### Freelance Software Developer (Dec 2013 – Present)
 
-- Ongoing Software Development on Fiverr/Freelancer.com/Upwork
-Development of Web Applications.
+- Ongoing Software Development on Fiverr/Freelancer.com/Upwork.
 - Back end development using Python, PHP and various frameworks like Flask, Django, Symfony and CodeIgniter.
 - Front end development using Bootstrap, jQuery, HTMl/CSS/JavaScript.
 - Extensive use of libraries and APIs.
@@ -64,7 +66,6 @@ Development of Web Applications.
 - Understand and analyze the requirements from component designers.
 - Prepare and provide estimates with task-lists to project managers.
 - Carefully design the unit-test cases to ensure that each acceptance-criteria is covered.
-- Perform software development (VB.NET/C#/NE 5.2.4/ARCGIS 9.3), and unit-testing.
 - Preparation of Show-and-Tell PPTs and explain the functionality to planners.
 - Calculating the Function-Points for the applications developed.
 - Preparation of DB-scripts and Release-Notes, liaise with Environment and Build teams.
