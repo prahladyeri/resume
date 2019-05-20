@@ -2,7 +2,7 @@
 
 ## Basic Details
 
-| Item        | Description                     |
+| <!---->        | <!---->                     |
 |-------------| ------------------------------- |
 | Name        | Prahlad Yeri					|
 | Email       | prahladyeri@yahoo.com           |
