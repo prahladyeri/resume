@@ -28,11 +28,11 @@
 
 ## Technical Summary
 
-| Skills        	    | Industry Experience	| Areas				|
-|-----------------------| ----------------------------------------- |
+| Skills        	    | Industry Experience	| Areas									|
+|-----------------------|---------------------- |---------------------------------------|
 | Web Development     	| 5+ years        	    | Python, PHP, Flask, Django, Wordpress, Drupal, HTML/CSS/JS, Bootstrap |
-| Mobile Development    | 2 years         		| Java, Android Studio |
-| Desktop Development   | 10+ years		  		| Tkinter, C#, VB.NET, WinForms, VB6 |
+| Mobile Development    | 2 years         		| Java, Android Studio 					|
+| Desktop Development   | 10+ years		  		| Tkinter, C#, VB.NET, WinForms, VB6 	|
 
 ## Work History
 
