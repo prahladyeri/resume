@@ -84,11 +84,13 @@ See my [Github profile](https://github.com/prahladyeri/) for details.
 
 ## Workshops and Training Programs Attended
 
-- Process Training (Tech Mahindra Internal Training, December 2006)
-- Agile Overview: (Tech Mahindra Internal Training, March 2007)
-- eSecurity: (Tech Mahindra Internal Training, December 2006)
-- Communication Skills: (Tech Mahindra Internal Training, March 2007)
+- BT Security Policy - Annual Checklist (Tech Mahindra, June 2013)
+- The BT Undertakings Code of Practice (Tech Mahindra, October 2013)
 - Assertiveness: (Tech Mahindra Internal Training, August 2007)
+- Communication Skills: (Tech Mahindra Internal Training, March 2007)
+- Agile Overview: (Tech Mahindra Internal Training, March 2007)
+- Process Training (Tech Mahindra Internal Training, December 2006)
+- eSecurity: (Tech Mahindra Internal Training, December 2006)
 
 ## Awards
 
