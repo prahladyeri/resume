@@ -7,7 +7,7 @@
 |  |   |
 |----------| ------------------|
 | Name | Prahlad Yeri |
-| Location | Bangalore, India |
+| Location | India |
 | Email | <prahladyeri@yahoo.com> |
 | Blog | <https://prahladyeri.com> |
 | Github | <https://github.com/prahladyeri> |
