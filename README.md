@@ -95,6 +95,11 @@ See my [Github profile](https://github.com/prahladyeri/) for details.
 - Cookie Award for performance twice in eCoRepair & PIPeR projects (Tech Mahindra).
 - Valuable-Team-Player Award for performance in PIPeR project (Tech Mahindra).
 
+## Certifications
+
+- [edX: Honor Code Certificate for Introduction to Java Programming - Part 1](https://verify.edx.org/cert/acca6fde9681439b84e9d99c71080c0c) (Dec, 2015)
+- [SoloLearn: Python for Beginners](https://www.sololearn.com/certificates/course/en/21739645/1157/landscape/png) (May, 2021)
+
 ## Hobbies
 
 - Internet, Reading, Blogging, Programming, Meditation, Spirituality.
