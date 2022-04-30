@@ -15,7 +15,7 @@
 
 - May, 2021. [Python for Beginners (SoloLearn)](https://www.sololearn.com/certificates/course/en/21739645/1157/landscape/png)
 - May, 2021. [Javascript Course (SoloLearn)](https://www.sololearn.com/certificates/course/en/21739645/1024/landscape/png)
-- Dec, 2015. [Honor Code Certificate for Introduction to Java Programming - Part 1 (edX)](https://verify.edx.org/cert/acca6fde9681439b84e9d99c71080c0c)
+- Dec, 2015. [Introduction to Java Programming (edX)](https://verify.edx.org/cert/acca6fde9681439b84e9d99c71080c0c)
 - Oct, 2011. 5 Year Association Award (Tech Mahindra)
 - Dec, 2020. ORACLE 8 with VISUAL BASIC 6.0 Certification (SSI)
 - Feb, 1999. Diploma in Information Systems Management (Aptech)
